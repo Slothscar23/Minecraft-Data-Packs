@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Nuke: causes a local explosion (simulates ~10 TNT) without damaging the caster",
+    "min_format": 88,
+    "max_format": 88
+  }
+}

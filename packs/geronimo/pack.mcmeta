@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Geronimo datapack — run `/trigger geronimo set 1` to teleport up 100 blocks",
+    "min_format": 88,
+    "max_format": 88
+  }
+}
