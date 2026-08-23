@@ -1,7 +1,7 @@
 {
   "pack": {
     "description": "UCME: toggles spectator mode (xray-style) for the player who runs the trigger",
-    "min_format": 88,
-    "max_format": 88
+    "min_format": 91,
+    "max_format": 91
   }
 }
